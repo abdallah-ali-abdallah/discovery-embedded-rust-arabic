@@ -1,61 +1,37 @@
-# `Discovery`
+# The Rust Code of Conduct
 
-Discover the world of microcontrollers through [Rust](https://www.rust-lang.org/)!
+## Conduct
 
-There are currently two versions of this book. Both of them provide an
-introduction to microcontrollers and how to use Rust with them.
-The first is older and uses an F3 Discovery circuit board, while
-the second is newer and uses a micro:bit circuit board instead.
+**Contact**: [Resources team][team]
 
-- Read the newer book, using a micro:bit:
-  https://docs.rust-embedded.org/discovery/microbit
-- Read the older book, using an F3 discovery board:
-  https://docs.rust-embedded.org/discovery/f3discovery
-- Start working on the examples from this repository
-- You've got questions?
-    - Have a look at our [discussions section on
-      GitHub](https://github.com/rust-embedded/discovery/discussions)
-    - Maybe it has already been answered
-    - If not, start a new discussion
-- You've found an issue?
-    - Have a look at our [issues on
-      GitHub](https://github.com/rust-embedded/discovery/issues)
-    - Maybe there is already a workaround
-    - If not, please open a new one - or even better - a [pull
-      request](https://github.com/rust-embedded/discovery/pulls) for solving
-      it
-- Have fun and enjoy!
+* We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
+* On IRC, please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
+* Please be kind and courteous. There's no need to be mean or rude.
+* Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
+* Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
+* We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term "harassment" as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
+* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the [Resources team][team] immediately. Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
+* Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
-This project is developed and maintained by the [Resources team][team].
+## Moderation
 
-## License
+These are the policies for upholding our community's standards of conduct.
 
-The documentation is licensed under
+1. Remarks that violate the Rust standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.)
+2. Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.
+3. Moderators will first respond to such remarks with a warning.
+4. If the warning is unheeded, the user will be "kicked," i.e., kicked out of the communication channel to cool off.
+5. If the user comes back and continues to make trouble, they will be banned, i.e., indefinitely excluded.
+6. Moderators may choose at their discretion to un-ban the user if it was a first offense and they offer the offended party a genuine apology.
+7. If a moderator bans someone and you think it was unjustified, please take it up with that moderator, or with a different moderator, **in private**. Complaints about bans in-channel are not allowed.
+8. Moderators are held to a higher standard than other community members. If a moderator creates an inappropriate situation, they should expect less leeway than others.
 
-- Creative Commons Attribution 4.0 License ([LICENSE-CC-BY](LICENSE-CC-BY)
-  or https://creativecommons.org/licenses/by/4.0/legalcode)
+In the Rust community we strive to go the extra step to look out for each other. Don't just aim to be technically unimpeachable, try to be your best self. In particular, avoid flirting with offensive or sensitive issues, particularly if they're off-topic; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.
 
-And the source code is licensed under either of
+And if someone takes issue with something you said or did, resist the urge to be defensive. Just stop doing what it was they complained about and apologize. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could've communicated better — remember that it's your responsibility to make your fellow Rustaceans comfortable. Everyone wants to get along and we are all here first and foremost because we want to talk about cool technology. You will find that people will be eager to assume good intent and forgive as long as you earn their trust.
 
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or
-  http://www.apache.org/licenses/LICENSE-2.0)
+The enforcement policies listed above apply to all official embedded WG venues; including official IRC channels (#rust-embedded); GitHub repositories under rust-embedded; and all forums under rust-embedded.org (forum.rust-embedded.org).
 
-- MIT License ([LICENSE-MIT](LICENSE-MIT) or
-  https://opensource.org/licenses/MIT)
+*Adapted from the [Node.js Policy on Trolling](http://blog.izs.me/post/30036893703/policy-on-trolling) as well as the [Contributor Covenant v1.3.0](https://www.contributor-covenant.org/version/1/3/0/).*
 
-at your option.
-
-### Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
-licensed as above, without any additional terms or conditions.
-
-## Code of Conduct
-
-Contribution to this crate is organized under the terms of the [Rust Code of
-Conduct][CoC], the maintainer of this crate, the [Resources team][team], promises
-to intervene to uphold that code of conduct.
-
-[CoC]: CODE_OF_CONDUCT.md
 [team]: https://github.com/rust-embedded/wg#the-resources-team
